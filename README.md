@@ -1,0 +1,2 @@
+# RssComponentd
+Functional Automation Framework
